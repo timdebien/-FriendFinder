@@ -2,8 +2,8 @@
 
 var friends = [
     {
-        "name": "Ahmed",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Lamar Latrelle",
+        "photo": "https://vignette.wikia.nocookie.net/revengeofthenerds/images/0/04/350964_main.jpg/revision/latest?cb=20110126055327",
         "scores": [
             5,
             1,
@@ -18,8 +18,8 @@ var friends = [
         ]
     },
     {
-        "name": "johny",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Lewis Skolnick",
+        "photo": "https://pbs.twimg.com/profile_images/489042901251682304/QOspk8d2_400x400.jpeg",
         "scores": [
             3,
             3,
@@ -34,8 +34,8 @@ var friends = [
         ]
     },
         {
-        "name": "Jeremiah Scanlon",
-        "photo": "https://avatars2.githubusercontent.com/u/8504998?v=3&s=460",
+        "name": "Arnold Poindexter",
+        "photo": "https://pbs.twimg.com/profile_images/585547912479903744/wl-Nrtog_400x400.png",
         "scores": [
             5,
             2,
@@ -50,8 +50,8 @@ var friends = [
         ]
     },
     {
-        "name": "Louis T. Delia",
-        "photo": "https://pbs.twimg.com/profile_images/639214960049000449/lNCRC-ub.jpg",
+        "name": "Fluff Head",
+        "photo": "https://vignette.wikia.nocookie.net/fiction-taxonomy/images/c/c2/Ewok.jpg/revision/latest?cb=20161126042415",
         "scores": [
             3,
             3,
@@ -66,8 +66,8 @@ var friends = [
         ]
     },
     {
-        "name": "Lou Ritter",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAkDAAAAJDhhZTI5NTk2LWQzZjUtNDJjZi1hMTM2LTQ3ZjNmYjE0YmY2NA.jpg",
+        "name": "R2-D2",
+        "photo": "https://lumiere-a.akamaihd.net/v1/images/r2-d2_41dacaa9_68566da1.jpeg?region=0%2C0%2C1536%2C864&width=768",
         "scores": [
             4,
             3,
@@ -82,8 +82,8 @@ var friends = [
         ]
     },
     {
-        "name": "Jordan Biason",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAisAAAAJGUxYzc4YzA0LWQxMzUtNGI4NS04YTFiLTkwYzM0YTZkNzA2NA.jpg",
+        "name": "C-3PO",
+        "photo": "https://lumiere-a.akamaihd.net/v1/images/C-3PO-See-Threepio_68fe125c.jpeg?region=0%2C1%2C1408%2C792&width=768",
         "scores": [
             4,
             4,
@@ -98,8 +98,8 @@ var friends = [
         ]
     },
     {
-        "name": "Tanner",
-        "photo": "https://nsidc.org/sites/nsidc.org/files/tanner.jpg",
+        "name": "Obi-Wan Kenobi",
+        "photo": "https://vignette.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg/revision/latest/scale-to-width-down/500?cb=20111115052816",
         "scores": [
             1,
             4,
@@ -114,8 +114,8 @@ var friends = [
         ]
     },
     {
-        "name": "testa",
-        "photo": "https://storage.googleapis.com/zopnow-static/images/products/320/fresh-apple-red-delicious-v-500-g.png",
+        "name": "Chewbacca",
+        "photo": "https://uproxx.files.wordpress.com/2018/04/chewbacca.jpg?quality=95&w=650",
         "scores": [
             4,
             3,
@@ -130,8 +130,8 @@ var friends = [
         ]
     },
     {
-        "name": "John Sith",
-        "photo": "http://mlb.mlb.com/mlb/images/players/head_shot/501925.jpg",
+        "name": "Luke Skywalker",
+        "photo": "https://uproxx.files.wordpress.com/2018/02/luke.jpg?quality=95&w=650",
         "scores": [
             4,
             3,
